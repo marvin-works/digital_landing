@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Digitalbank landing page
 
 ![Design preview for the Digitalbank landing page coding challenge](preview.jpg)
@@ -103,3 +104,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# digital_landing
+>>>>>>> 05b149f9efe6eed732181bd431abcee7d528c1fe
